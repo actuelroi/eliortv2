@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import FistPart from "./_home/fistPart";
 import SecondPart from "./_home/secondPart";
 import ThirdPart from "./_home/thirdPart";
@@ -8,7 +8,7 @@ import Testimony from "./_home/Testimony";
 import PartnerLogoMarquee from "./_home/Trust";
 import Services from "./_home/Services";
 import Footer from "./_home/Footer";
-import EtVous from "./_home/EtVous";
+
 import FourthPart from "./_home/fourthPart";
 import FinalVue from "./_home/FinalVue";
 

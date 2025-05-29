@@ -15,7 +15,7 @@ import {
     DialogTitle,
     DialogTrigger,
 } from "@/components/ui/dialog"
-import { Input } from "@/components/ui/input"
+
 import { Label } from "@/components/ui/label"
 import { Calendar } from 'lucide-react'
 import { Textarea } from "@/components/ui/textarea"
@@ -33,7 +33,7 @@ const tabnavigation = [
 const FistPart = () => {
 
 
-    const [date, setDate] = useState<Date | undefined>(new Date())
+    // const [date, setDate] = useState<Date | undefined>(new Date())
     return (
         <nav className="p-5">
             <div className="flex flex-row justify-between items-center">
@@ -57,7 +57,7 @@ const FistPart = () => {
                             <DialogHeader>
                                 <DialogTitle>Prenez contact avec Eliort</DialogTitle>
                                 <DialogDescription>
-                                    Nos équipe s'assuyerons de bien traité toutes vos demande.
+                                    Nos équipe s&apos;assuyerons de bien traité toutes vos demande.
                                 </DialogDescription>
                             </DialogHeader>
                             <div className="grid gap-4 py-4">

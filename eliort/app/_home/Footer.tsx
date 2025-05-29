@@ -9,7 +9,7 @@ const Footer = () => {
         <div>
           <h2 className="text-2xl font-bold mb-4">Eliort</h2>
           <p className="text-sm">
-            Nous accompagnons les entreprises avec des solutions concrètes : transformation digital, gestion comptable, automatisation par l’IA, labellisation de données, intégration cloud , développement de pipelines métiers et bien plus encore .
+            Nous accompagnons les entreprises avec des solutions concrètes : transformation digital, gestion comptable, automatisation par l&apos;IA, labellisation de données, intégration cloud , développement de pipelines métiers et bien plus encore .
           </p>
         </div>
 

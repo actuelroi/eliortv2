@@ -1,6 +1,6 @@
 import React from 'react'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
-import { FaIndustry, FaChartLine, FaMoneyBillTrendUp } from 'react-icons/fa6'
+import { FaIndustry, FaMoneyBillTrendUp } from 'react-icons/fa6'
 import { MdOutlineArrowUpward, MdOutlineArrowDownward } from 'react-icons/md'
 import { FaFileInvoiceDollar, FaLaptopCode, FaMobileAlt, FaRobot, FaServer, FaTags } from 'react-icons/fa'
 import { Button } from '@/components/ui/button'
