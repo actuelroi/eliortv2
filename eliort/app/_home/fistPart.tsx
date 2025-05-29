@@ -3,7 +3,7 @@
 
 import { Button } from '@/components/ui/button'
 import Link from 'next/link'
-import React, { useState } from 'react'
+import React from 'react'
 import { MdMenu } from 'react-icons/md'
 
 import {

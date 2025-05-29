@@ -28,7 +28,7 @@ const Footer = () => {
         <div>
           <h3 className="text-lg font-semibold mb-3">Support</h3>
           <ul className="space-y-2 text-sm">
-            <li><a href="#" className="hover:underline">Centre d'aide</a></li>
+            <li><a href="#" className="hover:underline">Centre d&apos;aide</a></li>
             <li><a href="#" className="hover:underline">FAQ</a></li>
             <li><a href="#" className="hover:underline">Nous contacter</a></li>
             <li><a href="#" className="hover:underline">Politique de confidentialité</a></li>
